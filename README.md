@@ -19,3 +19,6 @@ xcodeproj
 example-repo
 swift4
 example-app
+example-repo
+swift4
+example-app
